@@ -1,0 +1,10 @@
+#b1 {
+	font-size: 13px;
+	width: 100%;
+	font-weight: 200;
+	line-height: 16px;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+	background-color: rgba(255, 255, 255, 0.3);
+}
